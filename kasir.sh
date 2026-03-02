@@ -7,7 +7,7 @@ menu2="Sate Ayam"
 menu3="Teh Manis"
 menu4="Es Jeruk"
 
-harga0=15000
+harga0=15003
 harga1=12000
 harga2=18000
 harga3=5000
